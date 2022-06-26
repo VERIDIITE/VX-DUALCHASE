@@ -1,0 +1,213 @@
+/* sylenth */
+
+.sylenth {
+  background-color: #0a0000;
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.sylenth .backgroundpicv1 {
+  background-color: transparent;
+  height: 243px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 375px;
+}
+
+.sylenth .backgroundpicv2 {
+  background-color: transparent;
+  height: 375px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.sylenth .group-49-7CK9Ga {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 12px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 11px;
+  width: 27px;
+}
+
+.sylenth .logopics1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.sylenth .dual-chase-logo-2y059X {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.sylenth .free-download-7CK9Ga {
+  -webkit-text-stroke: 1px #f5f5f5;
+  background-color: transparent;
+  color: #4b0d01;
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sylenth .sylenth-drivewave-noir-vol-1-7CK9Ga {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sylenth .immersive-atmosphere-7CK9Ga {
+  background-color: transparent;
+  height: 52px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 503px;
+  width: 339px;
+}
+
+.sylenth .starplacement1 {
+  background-color: transparent;
+  height: 23px;
+  left: 37px;
+  opacity: 0.7;
+  position: absolute;
+  top: 611px;
+  width: 23px;
+}
+
+.sylenth .path-6-J3tN5S {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.sylenth .starplacement2 {
+  background-color: transparent;
+  height: 23px;
+  left: 37px;
+  opacity: 0.7;
+  position: absolute;
+  top: 652px;
+  width: 23px;
+}
+
+.sylenth .path-6-JenxOg {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.sylenth .x5259-kb-download-size-7CK9Ga {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sylenth .x78-sylenth1-presets-7CK9Ga {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 659px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sylenth .download-7CK9Ga {
+  background-color: transparent;
+  height: 29px;
+  left: 42px;
+  position: absolute;
+  top: 439px;
+  width: 36px;
+}
+
+.sylenth .path-7-UeOqta {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.sylenth .path-8-UeOqta {
+  background-color: transparent;
+  bottom: calc(32.07% - 3px);
+  height: 8px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.sylenth .path-9-UeOqta {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}

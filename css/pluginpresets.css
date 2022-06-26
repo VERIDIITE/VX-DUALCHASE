@@ -1,0 +1,422 @@
+/* Pluginpresets */
+
+.pluginpresets {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.pluginpresets .pluginspresetss {
+  background-color: var(--black);
+  height: 735px;
+  left: 32px;
+  position: absolute;
+  top: 39px;
+  width: 320px;
+}
+
+.pluginpresets .group-46-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 7px;
+  position: absolute;
+  top: 9px;
+  width: 27px;
+}
+
+.pluginpresets .image-18-MLhYXu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pluginpresets .dual-chase-logo-MLhYXu {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.pluginpresets .fm8-ethereal-presets_desktop-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 128px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 128px;
+}
+
+.pluginpresets .serum-atmospheres_desktop-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 128px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 128px;
+}
+
+.pluginpresets .plugin-presets-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .icon-awesome-pagelines-4z6SxJ {
+  background-color: transparent;
+  height: 35px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 27px;
+}
+
+.pluginpresets .browse-our-collection-of-plugin-presets-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .monumental-dubstep_desktop-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 126px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 126px;
+}
+
+.pluginpresets .serum-hybrid-trap_desktop-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 128px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 325px;
+  width: 128px;
+}
+
+.pluginpresets .sylenth-drivewave-noir-vol1_desktop-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 179px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 514px;
+  width: 179px;
+}
+
+.pluginpresets .fm8-ethereal-presets-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 294px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .serum-atmospheres-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 214px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .serum-monumental-dubstep-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 467px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .serum-hybrid-trap-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 466px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .sylenth-drivewave-noir-vol-1-4z6SxJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 706px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pluginpresets .icon-feather-plus-circle-4z6SxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 101px;
+  position: absolute;
+  top: 203px;
+  width: 30px;
+}
+
+.pluginpresets .path-21-6lVemM {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.pluginpresets .path-22-6lVemM {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 3px;
+}
+
+.pluginpresets .path-23-6lVemM {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 15px;
+}
+
+.pluginpresets .icon-feather-plus-circle-nnVS5j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 260px;
+  position: absolute;
+  top: 207px;
+  width: 30px;
+}
+
+.pluginpresets .path-21-x8xPVJ {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.pluginpresets .path-22-x8xPVJ {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 3px;
+}
+
+.pluginpresets .path-23-x8xPVJ {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 15px;
+}
+
+.pluginpresets .icon-feather-plus-circle-Va2EME {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 103px;
+  position: absolute;
+  top: 368px;
+  width: 30px;
+}
+
+.pluginpresets .path-21-fzuKSV {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.pluginpresets .path-22-fzuKSV {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 3px;
+}
+
+.pluginpresets .path-23-fzuKSV {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 15px;
+}
+
+.pluginpresets .icon-feather-plus-circle-CWpL4n {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 259px;
+  position: absolute;
+  top: 371px;
+  width: 30px;
+}
+
+.pluginpresets .path-21-GHVDZo {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.pluginpresets .path-22-GHVDZo {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 3px;
+}
+
+.pluginpresets .path-23-GHVDZo {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 15px;
+}
+
+.pluginpresets .icon-feather-plus-circle-xsOlH8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 188px;
+  position: absolute;
+  top: 585px;
+  width: 30px;
+}
+
+.pluginpresets .path-21-cq1xIF {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.pluginpresets .path-22-cq1xIF {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 3px;
+}
+
+.pluginpresets .path-23-cq1xIF {
+  background-color: transparent;
+  height: 3px;
+  left: calc(50.00% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 15px;
+}

@@ -1,0 +1,213 @@
+/* screen - serumdubstep */
+
+.serumdubstep {
+  background-color: #0d1f23;
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.serumdubstep .image22 {
+  background-color: transparent;
+  height: 243px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 375px;
+}
+
+.serumdubstep .image20 {
+  background-color: transparent;
+  height: 375px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.serumdubstep .group-49-6zzpYr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 12px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 11px;
+  width: 27px;
+}
+
+.serumdubstep .image-18-fmQv6N {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.serumdubstep .dual-chase-logo-fmQv6N {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.serumdubstep .Free {
+  -webkit-text-stroke: 1px var(--maroon);
+  background-color: transparent;
+  color: #fefcec;
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serumdubstep .serum-monumental-dubstep-6zzpYr {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serumdubstep .pristine-collection-6zzpYr {
+  background-color: transparent;
+  height: 63px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  width: 348px;
+}
+
+.serumdubstep .star1 {
+  background-color: transparent;
+  height: 23px;
+  left: 43px;
+  opacity: 0.7;
+  position: absolute;
+  top: 611px;
+  width: 23px;
+}
+
+.serumdubstep .path-6-R7fmUO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.serumdubstep .star2 {
+  background-color: transparent;
+  height: 23px;
+  left: 43px;
+  opacity: 0.7;
+  position: absolute;
+  top: 652px;
+  width: 23px;
+}
+
+.serumdubstep .path-6-koIdg7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.serumdubstep .x120-preset-patches-f-6zzpYr {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serumdubstep .fm8-royalty-fd {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 658px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.serumdubstep .download-6zzpYr {
+  background-color: transparent;
+  height: 29px;
+  left: 48px;
+  position: absolute;
+  top: 439px;
+  width: 36px;
+}
+
+.serumdubstep .path-7-jYdoqR {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.serumdubstep .path-8-jYdoqR {
+  background-color: transparent;
+  bottom: calc(32.07% - 3px);
+  height: 8px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.serumdubstep .path-9-jYdoqR {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}

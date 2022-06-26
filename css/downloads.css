@@ -1,0 +1,89 @@
+/* Downloads */
+
+.downloads  {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.rectangle-20-fkXP7t {
+  background-color: #613da2;
+  filter: blur(50px);;
+  height: 473px;
+  left: 17px;
+  opacity: 0.64;
+  position: absolute;
+  top: 236px;
+  width: 84px;
+}
+
+.downloads .artworks-t4j-krxovp-fkXP7t {
+  background-color: transparent;
+  height: 326px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 326px;
+}
+
+.group-12-fkXP7t {
+  background-color: transparent;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 27px;
+}
+
+.image-18-QxxG59 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-QxxG59 {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.artworks-t4j-krxovp-vnZhtf {
+  background-color: transparent;
+  height: 326px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 326px;
+}
+
+.thank-you-for-downloading-fkXP7t {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.95px;
+  line-height: 38px;
+  position: absolute;
+  text-align: left;
+  top: 314px;
+  white-space: nowrap;
+  width: auto;
+}

@@ -1,0 +1,320 @@
+/* Sample-page */
+.sample-page {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.gallery {
+  background-color: var(--black);
+  height: 735px;
+  left: 29px;
+  position: absolute;
+  top: 40px;
+  width: 320px;
+}
+
+.artworks-t4j-krxovp-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 216px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 216px;
+}
+
+.fxlicia-hollow-sample-pack-wav-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 215px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 90px;
+}
+
+.artworks-000613815902-17igaf-t500x500-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 250px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 305px;
+}
+
+.artworks-o9-q-azm-jw-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 106px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 106px;
+}
+
+.atlas-audio-la-flame-in-utopia-wav-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 98px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 520px;
+  width: 98px;
+}
+
+.cartel-loops-vocal-chops-wav-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 92px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 520px;
+  width: 92px;
+}
+
+.artworks-000531051855-355vok-t500x500-eN8VAx {
+  background-color: transparent;
+  height: 137px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 137px;
+}
+
+.rxckson-champion-drill-kit-2021-wav-eN8VAx {
+  background-color: transparent;
+  height: 137px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 138px;
+}
+
+.line-1-eN8VAx {
+  background-color: transparent;
+  height: 131px;
+  left: -0px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 175px;
+}
+
+.line-2-eN8VAx {
+  background-color: transparent;
+  height: 144px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 196px;
+}
+
+.line-3-eN8VAx {
+  background-color: transparent;
+  height: 30px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.line-4-eN8VAx {
+  background-color: transparent;
+  height: 118px;
+  left: 31px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 203px;
+}
+
+.line-5-eN8VAx {
+  background-color: transparent;
+  height: 65px;
+  left: 255px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 91px;
+}
+
+.line-6-eN8VAx {
+  background-color: transparent;
+  height: 60px;
+  left: 31px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 180px;
+}
+
+.line-7-eN8VAx {
+  background-color: transparent;
+  height: 1px;
+  left: 218px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 127px;
+}
+
+.line-8-eN8VAx {
+  background-color: transparent;
+  height: 109px;
+  left: 182px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 535px;
+  width: 160px;
+}
+
+.line-9-eN8VAx {
+  background-color: transparent;
+  height: 98px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 142px;
+}
+
+.exclusive1 {
+  background-color: transparent;
+  height: 430px;
+  left: 105px;
+  position: absolute;
+  top: 241px;
+  width: 87px;
+}
+
+.group-4-wG9nqb {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 66px;
+}
+
+.rectangle-70-tHuvuZ {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.rectangle-71-tHuvuZ {
+  background-color: var(--red);
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+
+.exclusive-tHuvuZ {
+  background-color: transparent;
+  bottom: calc(31.25% - 3px);
+  height: 11px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.exclusive2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+
+.rectangle-70-mYs6OC {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.rectangle-71-mYs6OC {
+  background-color: var(--red);
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+
+.exclusive-mYs6OC {
+  background-color: transparent;
+  bottom: calc(31.25% - 3px);
+  height: 11px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.group-8-eN8VAx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 9px;
+  position: absolute;
+  top: 7px;
+  width: 27px;
+}
+
+.image-18-YxRC6x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-YxRC6x {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}

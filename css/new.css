@@ -1,0 +1,273 @@
+/* New */
+
+.new {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.new .rectangle-20-0ngQd9 {
+  background-color: var(--black);
+  height: 735px;
+  left: 29px;
+  position: absolute;
+  top: 40px;
+  width: 320px;
+}
+
+.new .artworks-t4j-krxovp-0ngQd9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 304px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 210px;
+  width: 304px;
+}
+
+.new .artworks-000613815902-17igaf-t500x500-0ngQd9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 250px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 305px;
+}
+
+.new .line-1-0ngQd9 {
+  background-color: transparent;
+  height: 131px;
+  left: -0px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 175px;
+}
+
+.new .line-7-0ngQd9 {
+  background-color: transparent;
+  height: 1px;
+  left: 218px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 127px;
+}
+
+.new .Placement1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 152px;
+  left: 36px;
+  position: absolute;
+  top: 49px;
+  width: 304px;
+}
+
+.new .artworks-o9-q-azm-jw-bHEX3z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 152px;
+}
+
+.new .artworks-o9-q-azm-jw-HAYQ5U {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 152px;
+}
+
+.new .pop1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0.41;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.new .group-6-0ngQd9 {
+  background-color: transparent;
+  height: 310px;
+  left: 253px;
+  position: absolute;
+  top: 231px;
+  width: 87px;
+}
+
+.new .Exclusivemarks {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 66px;
+}
+
+.new .rectangle-70-ZqM0Bl {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.new .rectangle-71-ZqM0Bl {
+  background-color: var(--red);
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+
+.new .exclusive-ZqM0Bl {
+  background-color: transparent;
+  bottom: calc(31.25% - 3px);
+  height: 11px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.new .Exclusivemarksv2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+
+.new .rectangle-70-vCqZAr {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.new .rectangle-71-vCqZAr {
+  background-color: var(--red);
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+
+.new .exclusive-vCqZAr {
+  background-color: transparent;
+  bottom: calc(31.25% - 3px);
+  height: 11px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.new .x1-0ngQd9 {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.new .x2-0ngQd9 {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0.24;
+  position: absolute;
+  text-align: left;
+  top: 528px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.new .free-sampes-0ngQd9 {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0.2;
+  position: absolute;
+  text-align: left;
+  top: 342px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.new .group-9-0ngQd9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 27px;
+}
+
+.new .image-18-bYp19x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.new .dual-chase-logo-bYp19x {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}

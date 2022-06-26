@@ -1,0 +1,324 @@
+/* store */
+
+.store {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.lounge {
+  background-color: transparent;
+  height: 129px;
+  left: 158px;
+  position: absolute;
+  top: 68px;
+  width: 186px;
+}
+
+.group-29-5bx9UF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.image-10-jQxGjg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-jQxGjg {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(43.88% - 21px);
+  top: 16px;
+  width: 47px;
+}
+
+.dualchasedub {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: calc(43.88% - 21px);
+  top: 16px;
+  width: 47px;
+}
+
+.dual-chase-logo-Y6KNj2 {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.samples1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0.84;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.packs {
+  background-color: var(--eucalyptus);
+  cursor: pointer;
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 246px;
+  width: 336px;
+}
+
+.likes {
+  background-color: var(--mine-shaft);
+  cursor: pointer;
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 319px;
+  width: 336px;
+}
+
+.rectangle-23-xkYGg0 {
+  background-color: var(--eucalyptus);
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 391px;
+  width: 336px;
+}
+
+.collections {
+  background-color: var(--mine-shaft);
+  cursor: pointer;
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 464px;
+  width: 336px;
+}
+
+.alldownloads {
+  background-color: var(--eucalyptus);
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 537px;
+  width: 336px;
+}
+
+.rectangle-26-xkYGg0 {
+  background-color: var(--mine-shaft);
+  cursor: pointer;
+  height: 60px;
+  left: 20px;
+  position: absolute;
+  top: 609px;
+  width: 336px;
+}
+
+.image-11-xkYGg0 {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 32px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 255px;
+  width: 33px;
+}
+
+.image-12-xkYGg0 {
+  background-color: transparent;
+  height: 36px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 326px;
+  width: 33px;
+}
+
+.image-13-xkYGg0 {
+  background-color: transparent;
+  height: 32px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 401px;
+  width: 49px;
+}
+
+.image-14-xkYGg0 {
+  background-color: transparent;
+  height: 34px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 550px;
+  width: 37px;
+}
+
+.image-15-xkYGg0 {
+  background-color: transparent;
+  height: 36px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 33px;
+}
+
+.image-16-xkYGg0 {
+  background-color: transparent;
+  height: 38px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 620px;
+  width: 31px;
+}
+
+.packs-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 262px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.genres-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.collections-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.instruments-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 340px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.likes-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 486px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.all-downloads-xkYGg0 {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 634px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.group-32-xkYGg0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 18px;
+  position: absolute;
+  top: 17px;
+  width: 27px;
+}
+
+.group-18-1OWxCc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.image-18-NLi603 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-1OWxCc {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}

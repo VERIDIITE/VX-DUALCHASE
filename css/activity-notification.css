@@ -1,0 +1,473 @@
+/* activity-notification */
+
+.activity-notification {
+  background-color: var(--sunglow);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 376px;
+}
+
+.activity-notification .group-28-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 628px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-16-dLEghy {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .image-8-dLEghy {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: calc(21.75% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.activity-notification .rectangle-19-dLEghy {
+  background-color: var(--black);
+  height: 100%;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .group-27-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 568px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-15-0578OK {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .image-8-0578OK {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: calc(21.75% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.activity-notification .rectangle-18-0578OK {
+  background-color: var(--black);
+  height: 100%;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .group-26-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 358px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-14-EKKGB6 {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .image-8-EKKGB6 {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: calc(21.75% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.activity-notification .rectangle-17-EKKGB6 {
+  background-color: var(--black);
+  height: 100%;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .group-25-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 298px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-12-I5JxGO {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .image-8-I5JxGO {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: calc(21.75% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.activity-notification .rectangle-13-I5JxGO {
+  background-color: var(--black);
+  height: 100%;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .group-24-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 238px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-9-UlAZZP {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .rectangle-10-UlAZZP {
+  background-color: var(--black);
+  height: 100%;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .image-8-UlAZZP {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: calc(21.75% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 28px;
+}
+
+.activity-notification .group-23-Vso1Ax {
+  background-color: transparent;
+  height: 50px;
+  left: 20px;
+  position: absolute;
+  top: 178px;
+  width: 336px;
+}
+
+.activity-notification .rectangle-6-Yjsq7x {
+  background-color: var(--sunglow);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.activity-notification .rectangle-7-Yjsq7x {
+  background-color: var(--black);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.activity-notification .image-7-Yjsq7x {
+  background-color: transparent;
+  height: 26px;
+  left: calc(21.86% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(45.83% - 12px);
+  width: 25px;
+}
+
+.activity-notification .x2330-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 196px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .veridiite-vanquish-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .heimanu-new-wave-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 253px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x1332-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 256px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .skeler-night-drive-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .juche-nfs-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 373px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .juche-valien-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 583px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .juche-rts-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 643px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x2-new-presets-Vso1Ax {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 532px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x0600-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 316px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x2300-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 376px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x1057-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 586px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .x827-Vso1Ax {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 646px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .activity-Vso1Ax {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .you-have-4-new-sample-packs-Vso1Ax {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.activity-notification .image-9-Vso1Ax {
+  background-color: transparent;
+  height: 31px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 34px;
+}
+
+.activity-notification .image-9-xOLyTd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 34px;
+}
+
+.activity-notification .icon-awesome-app-store-ios-Vso1Ax {
+  background-color: transparent;
+  height: 32px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 32px;
+}

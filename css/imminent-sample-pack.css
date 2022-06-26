@@ -1,0 +1,568 @@
+/* Imminent-sample-pack */
+
+.imminent-sample-pack {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.rectangle-20-iFbdbr {
+  background-color: #b6eeef;
+  filter: blur(50px);;
+  height: 446px;
+  left: 17px;
+  position: absolute;
+  top: 262px;
+  width: 84px;
+}
+
+.immenent {
+  background-color: transparent;
+  height: 131px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 131px;
+}
+
+.wave-iFbdbr {
+  -webkit-text-stroke: 1px var(--evening-sea);
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dysphoria-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artworks-t4j-krxovp-svHylH {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 39px;
+}
+
+.iw_dys_01_fire-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_04_against-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 357px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_05_percx-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 407px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_19_rca_bk-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 461px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_05_killer_snare-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_045_faulkt-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 561px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_05_turnlove-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 607px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iw_dys_05_flyaway-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 662px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.container-right-iFbdbr {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  position: absolute;
+  top: 194px;
+  width: 248px;
+}
+
+.wireframe-quicksearch-zbtKPW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 164px;
+}
+
+.background-x8XXqx {
+  background-color: transparent;
+  border: 1px solid var(--evening-sea);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.search-x8XXqx {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(40.00% - 10px);
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 400;
+  height: 24px;
+  left: calc(33.33% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.search-x8XXqx::placeholder {
+  color: #ffffff99;
+}
+
+.wireframe-language-navigation-zbtKPW {
+  background-color: transparent;
+  height: 24px;
+  position: absolute;
+  right: 0px;
+  top: calc(40.00% - 10px);
+  width: 47px;
+}
+
+.uk-r3xBY9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 16.67%;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.wireframe-icon-down-r3xBY9 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 24px;
+}
+
+.union-11-xvCtHN {
+  background-color: transparent;
+  bottom: calc(47.70% - 4px);
+  height: 8px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 11px);
+}
+
+.icon-download_arrow-iFbdbr {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 17px;
+}
+
+.icon-download_arrow-svHylH {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 17px;
+}
+
+.icon-download_arrow-OuklZW {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 17px;
+}
+
+.icon-download_arrow-P0YAvf {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 17px;
+}
+
+.icon-download_arrow-yxC1QW {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 17px;
+}
+
+.icon-download_arrow-I8YoYi {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 510px;
+  width: 17px;
+}
+
+.icon-download_arrow-xJ5Clg {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 17px;
+}
+
+.icon-download_arrow-bGT8Tx {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 606px;
+  width: 17px;
+}
+
+.icon-download_arrow-16Gv9X {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 660px;
+  width: 17px;
+}
+
+.artworks-t4j-krxovp-OuklZW {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 39px;
+}
+
+.artworks-t4j-krxovp-P0YAvf {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 39px;
+}
+
+.iw_dys_02_class-iFbdbr {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 307px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.i-iFbdbr {
+  -webkit-text-stroke: 1px var(--cyber-grape);
+  background-color: transparent;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: 94px;
+  opacity: 0.09;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.immenent1 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 39px;
+}
+
+.immenent2 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 396px;
+  width: 39px;
+}
+
+.immenent3 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 39px;
+}
+
+.immenent4 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 39px;
+}
+
+.immenent5 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 546px;
+  width: 39px;
+}
+
+.immenent6 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 39px;
+}
+
+.immenent7 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 646px;
+  width: 39px;
+}
+
+.circle-fill-iFbdbr {
+  background-color: transparent;
+  height: 218px;
+  left: 6px;
+  mix-blend-mode: exclusion;
+  opacity: 0.03;
+  position: absolute;
+  top: 351px;
+  width: 255px;
+}
+
+.imminent-sample-pack .path-10-97XNuV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.group-15-iFbdbr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 27px;
+}
+
+.image-18-Sn84MS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-Sn84MS {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.bx-search-alt-iFbdbr {
+  background-color: transparent;
+  height: 19px;
+  left: 61px;
+  position: absolute;
+  top: 199px;
+  width: 19px;
+}
+
+.icon-search-rjj440 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bx-search-alt-svHylH {
+  background-color: transparent;
+  height: 19px;
+  left: 61px;
+  position: absolute;
+  top: 199px;
+  width: 19px;
+}
+
+.icon-search-Za4qU8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}

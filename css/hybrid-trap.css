@@ -1,0 +1,212 @@
+/* Hybrid-trap */
+.hybrid-trap {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.mainbk1 {
+  background-color: transparent;
+  height: 375px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: 375px;
+}
+
+.bkv2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 12px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 11px;
+  width: 27px;
+}
+
+.image-18-6AEdae {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-6AEdae {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.image-22-Z2SgF6 {
+  background-color: transparent;
+  height: 243px;
+  left: -3px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 375px;
+}
+
+.serum-hybrid-trap-Z2SgF6 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 148px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 396px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.free-download-Z2SgF6 {
+  -webkit-text-stroke: 1px var(--maroon);
+  background-color: transparent;
+  color: #9c7a4f;
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 435px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.monumental-offering-Z2SgF6 {
+  background-color: transparent;
+  height: 73px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 486px;
+  width: 363px;
+}
+
+.download-Z2SgF6 {
+  background-color: transparent;
+  height: 29px;
+  left: 49px;
+  position: absolute;
+  top: 427px;
+  width: 36px;
+}
+
+.path-7-iQY3a6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.path-8-iQY3a6 {
+  background-color: transparent;
+  bottom: calc(32.07% - 3px);
+  height: 8px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.path-9-iQY3a6 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.starv1 {
+  background-color: transparent;
+  height: 23px;
+  left: 39px;
+  opacity: 0.7;
+  position: absolute;
+  top: 599px;
+  width: 23px;
+}
+
+.path-6-G8GPRX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.starv12 {
+  background-color: transparent;
+  height: 23px;
+  left: 39px;
+  opacity: 0.7;
+  position: absolute;
+  top: 640px;
+  width: 23px;
+}
+
+.path-6-3CssOW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x75-serum-presets-Z2SgF6 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 606px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x50-custom-wavetables-Z2SgF6 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 646px;
+  white-space: nowrap;
+  width: auto;
+}

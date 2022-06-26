@@ -1,0 +1,213 @@
+/* Monark */
+.monark {
+  background-color: #132766;
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.monark .firstbk {
+  background-color: transparent;
+  height: 375px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+
+.monark .secondbk {
+  background-color: transparent;
+  height: 243px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 375px;
+}
+
+.monark .free-download-x1mSjx {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: #0f44a3;
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 438px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.monark .monark-mono-uprising-x1mSjx {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 398px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.monark .massive-sound-mono-s-x1mSjx {
+  background-color: transparent;
+  height: 59px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 489px;
+  width: 353px;
+}
+
+.monark .monarkpresets {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 608px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.monark .xpresets {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 650px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.monark .download-x1mSjx {
+  background-color: transparent;
+  height: 29px;
+  left: 45px;
+  position: absolute;
+  top: 431px;
+  width: 36px;
+}
+
+.monark .path-7-TNatZ5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 14px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.monark .path-8-TNatZ5 {
+  background-color: transparent;
+  bottom: calc(32.07% - 3px);
+  height: 8px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.monark .path-9-TNatZ5 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.monark .star12 {
+  background-color: transparent;
+  height: 23px;
+  left: 33px;
+  opacity: 0.7;
+  position: absolute;
+  top: 596px;
+  width: 23px;
+}
+
+.monark .path-6-6E9NcM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.monark .star22 {
+  background-color: transparent;
+  height: 23px;
+  left: 33px;
+  opacity: 0.7;
+  position: absolute;
+  top: 637px;
+  width: 23px;
+}
+
+.monark .path-6-rYhmkv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.monark .group-48-x1mSjx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 14px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 11px;
+  width: 27px;
+}
+
+.monark .image-18-Ehx5SN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.monark .dual-chase-logo-Ehx5SN {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}

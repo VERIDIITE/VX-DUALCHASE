@@ -1,0 +1,480 @@
+/* utopia-sample-pack */
+
+.utopia-sample-pack {
+  background-color: var(--black);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.rectangle-20-tyjpvQ {
+  background-color: #a78f92;
+  filter: blur(50px);;
+  height: 446px;
+  left: 17px;
+  position: absolute;
+  top: 262px;
+  width: 84px;
+}
+
+.utopialight {
+  background-color: transparent;
+  height: 131px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 131px;
+}
+
+.utopia {
+  -webkit-text-stroke: 1px #8f3035;
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.atlas-audio {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.artworks-t4j-krxovp-8JGJXV {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 39px;
+}
+
+.ut_aa_01_unleash-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_04_perc-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 357px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_054_drillguns-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 407px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_05_takeout-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 461px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_21_freeze-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_10_killt6-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 561px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_30_relwe-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 607px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ut_aa_100_shout-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 662px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.container-right-tyjpvQ {
+  background-color: transparent;
+  height: 29px;
+  left: 50px;
+  position: absolute;
+  top: 194px;
+  width: 164px;
+}
+
+.wireframe-quicksearch-FkytHf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 164px;
+}
+
+.background-5xkUZ3 {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.search-5xkUZ3 {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(40.00% - 10px);
+  color: #823037;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 400;
+  height: 24px;
+  left: calc(28.57% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.search-5xkUZ3::placeholder {
+  color: #82303799;
+}
+
+.icon-download_arrow-tyjpvQ {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 17px;
+}
+
+.icon-download_arrow-8JGJXV {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 17px;
+}
+
+.icon-download_arrow-AlifmG {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 17px;
+}
+
+.icon-download_arrow-4Sws24 {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 17px;
+}
+
+.icon-download_arrow-NRAtlm {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 17px;
+}
+
+.icon-download_arrow-y9u5Aa {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 510px;
+  width: 17px;
+}
+
+.icon-download_arrow-veH8Qf {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 17px;
+}
+
+.icon-download_arrow-qQhARv {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 606px;
+  width: 17px;
+}
+
+.icon-download_arrow-2giUam {
+  background-color: transparent;
+  height: 20px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 660px;
+  width: 17px;
+}
+
+.ut_aa_51_africa-tyjpvQ {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 307px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.u-tyjpvQ {
+  -webkit-text-stroke: 1px var(--cyber-grape);
+  background-color: transparent;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: 94px;
+  opacity: 0.09;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.utopia1 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 39px;
+}
+
+.utopia2 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 39px;
+}
+
+.utopia3 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 39px;
+}
+
+.utopia4 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 396px;
+  width: 39px;
+}
+
+.utopia5 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 39px;
+}
+
+.utopia6 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 39px;
+}
+
+.utopia7 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;object-fit: cover;
+position: absolute;
+  top: 546px;
+  width: 39px;
+}
+
+.utopia8 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 39px;
+}
+
+.utopia9 {
+  background-color: transparent;
+  height: 39px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 646px;
+  width: 39px;
+}
+
+ .group-16-tyjpvQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 27px;
+}
+
+.utopia-sample-pack .image-18-D1PPpv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.dual-chase-logo-D1PPpv {
+  background-color: transparent;
+  bottom: calc(28.57% - 2px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 7px;
+}
+
+.bx-search-alt-tyjpvQ {
+  background-color: transparent;
+  height: 19px;
+  left: 55px;
+  position: absolute;
+  top: 199px;
+  width: 19px;
+}
+
+.icon-search-jPDyNC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
