@@ -1,3 +1,3 @@
 # DUALCHASEVX
 PROTOTYPE - MOBILE APPLICATION - FRONT END DEVELOPMENT // HTML / CSS
-![Image description](SC.png)
+![Image description](DC.png)
